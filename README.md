@@ -4,8 +4,8 @@ Mini C++ Project - Cute Calculator
 
 ## Project structure
 - `src/`-> Quellcode
-- ìnclude/`-> Header-File
-- `build/ -> Compiled-File
+- `include/`-> Header-File
+- `build/`-> Compiled-File
 
 ## How to build
 ```bash
